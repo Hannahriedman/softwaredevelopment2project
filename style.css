@@ -1,0 +1,37 @@
+/*Hannah Riedman and Marc Christensen */
+html {
+    text-align: center;
+    background-color:#ffffff; 
+    font-family:copperplate,fantasy;
+    color:#ec0707;
+}
+.title {
+    font-family:impact;
+    font-size:larger;
+    color:black;
+}
+.form1 {
+    border-radius:100px;
+    padding: 5px 10px; 
+    border-style:solid;
+    border-color:#ec0707;
+}
+.results {
+    border-radius:100px;
+    padding-bottom: 0px;
+    border-style:solid;
+    border-color:#ec0707;
+}
+.results2 {
+    border-radius:100px;
+    padding-bottom: 0px;
+    border-style:solid;
+    border-color:#ec0707;
+    font-weight: bold;
+    
+}
+
+img {
+    width:100px;
+    height:100px;
+}
